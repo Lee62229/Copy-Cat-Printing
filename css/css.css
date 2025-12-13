@@ -56,7 +56,7 @@ p { /* gets rid off extra spacing around all <p> text */
 }
 
 #titlebar li:not(:last-child) { /* each button should have a line in between, to do so, there should be a border to the right, excluding the last button */
-    padding-right: 1%;
+    padding-right: .5%;
     border-right: .125em solid black;
 }
 
